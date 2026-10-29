@@ -16,7 +16,7 @@
 ## 🎓 **Education**  
 | 🏫 **Degree**       | 🏛️ **Institution**                          | 🗓️ **Year** | 📊 **CGPA (%)** |
 |----------------------|---------------------------------------------|-------------|-----------------|
-| **B.Tech (AI & DS)** | Karpagam College of Engineering            | 2026        | 7.24            |
+| **B.Tech (AI & DS)** | Karpagam College of Engineering            | 2026        | 7.60            |
 | **HSC**             | Srivalli Varadaraj Matric Hr. Sec. School  | 2022        | 7.2             |
 | **SSLC**            | Srivalli Varadaraj Matric Hr. Sec. School  | 2020        | 9.1             |
 
